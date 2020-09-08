@@ -3,7 +3,7 @@
 > This is part of the Weather-App Project in [The Odin Project's](https://www.theodinproject.com/courses/javascript/lessons/weather-app?ref=lnav) Javascript Curriculum.
 
 
-![screenshot](./app_screenshot.png)
+![screenshot](./app_screenshot.PNG)
 
  View the app live [here]()
  
@@ -45,7 +45,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/taiwocoker/Weather-App/issues).
 
 ## Show your support
 
