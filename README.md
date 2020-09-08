@@ -5,7 +5,7 @@
 
 ![screenshot](./app_screenshot.PNG)
 
- View the app live [here]()
+ View the app live [here](https://taiwocoker.github.io/Weather-App/)
  
 ## Built With
 
