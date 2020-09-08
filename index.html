@@ -3,22 +3,23 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://bootswatch.com/4/cerulean/bootstrap.min.css">
   <title>Weather App</title>
 </head>
 <body>
   <div class="container">
     <div class="row">
-      <div class="col-md-6 mx-auto text-center bg-primary mt-5 p-5 rounded">
+      <div class="col-sm-12 mx-auto text-center bg-image mt-5 p-5 rounded">
         <h1 id="w-location"></h1>
-        <h3 class="text-dark" id="w-desc"></h3>
+        <h3 class="text-dark" id="w-main"></h3>
         <h3 id="w-string"><span>&#xb0;</span>C</h3>
         <img id="w-icon">
-        <ul id="w-details" class="list-group mt-3">
-          <li class="list-group-item" id="w-humidity"></li>
-          <li class="list-group-item" id="w-pressure"></li>
-          <li class="list-group-item" id="w-feels-like"></li>
-          <li class="list-group-item" id="w-wind"></li>
+        <ul id="w-details" class="list-group mt-3 bg-image">
+          <li class="list-group-item bg-image" id="w-temp_min"></li>
+          <li class="list-group-item bg-image" id="w-temp_max"></li>
+          <li class="list-group-item bg-image" id="w-feels-like"></li>
+          <li class="list-group-item bg-image" id="w-wind"></li>
         </ul>
         <hr>
         <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#locModal">

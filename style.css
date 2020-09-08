@@ -1,0 +1,10 @@
+body {
+    background-image: url(./images/bg-image.jpg);
+    color: #fff;
+}
+
+.bg-image {
+  background: rgba(0, 0, 0, 0,5) !important;
+  color: #1f3a93;
+
+}
