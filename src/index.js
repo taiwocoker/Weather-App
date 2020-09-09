@@ -20,7 +20,6 @@ function getWeather() {
       dom.updateDom(results);
     })
     // eslint-disable-next-line no-alert
-    .catch(err => alert(err));
 }
 
 document.addEventListener('DOMContentLoaded', getWeather());
