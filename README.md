@@ -33,8 +33,6 @@ To get a local copy up and running follow these simple example steps.
 
 $ npm run build
 
-$ npm run start
-
 ### Install
 
 - Install VSCode or any code editor you like
