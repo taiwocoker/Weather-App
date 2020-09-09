@@ -1,0 +1,16 @@
+body {
+    background-image: url(./images/bg-image-2.jpg);
+    color: #ffffff;
+}
+li {
+    list-style: none;
+}
+
+.bg-image {
+  background: rgba(0, 0, 0, 0.78) !important;
+  color: #2fa4e7;
+}
+
+.bord {
+    border: 2px solid #2fa4e7;
+}

@@ -3,9 +3,9 @@
 > This is part of the Weather-App Project in [The Odin Project's](https://www.theodinproject.com/courses/javascript/lessons/weather-app?ref=lnav) Javascript Curriculum.
 
 
-![screenshot](./app_screenshot.png)
+![screenshot](./app_screenshot.PNG)
 
- View the app live [here]()
+ View the app live [here](https://taiwocoker.github.io/Weather-App/)
  
 ## Built With
 
@@ -25,8 +25,13 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-- Clone the repository on your local machine
-- cd into the folder
+- git clone https://github.com/taiwocoker/Weather-App.git
+- cd WeatherApp
+- Copy the absolute path of the index file, paste on your browser and click on enter
+
+### for webpack run:
+
+$ npm run build
 
 ### Install
 
@@ -45,7 +50,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/taiwocoker/Weather-App/issues).
 
 ## Show your support
 
