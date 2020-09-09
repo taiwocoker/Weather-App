@@ -18,8 +18,8 @@ function getWeather() {
   weather.getWeather(city.value, unit.value)
     .then(results => {
       dom.updateDom(results);
-    })
-    // eslint-disable-next-line no-alert
+    });
+  // eslint-disable-next-line no-alert
 }
 
 document.addEventListener('DOMContentLoaded', getWeather());
